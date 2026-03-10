@@ -12,3 +12,4 @@ devfs                                                 203Ki   203Ki     0Bi   10
 map auto_home                                           0Bi     0Bi     0Bi   100%       0     0     -   /System/Volumes/Data/home
 /dev/disk3s1                                          228Gi    14Gi   108Gi    12%    427k  1.1G    0%   /System/Volumes/Update/mnt1
 /Users/ekaterina/Downloads/Visual Studio Code 3.app   228Gi    85Gi   115Gi    43%    1.6M  1.2G    0%   /private/var/folders/5c/kj_r9m0517nb8pwr7drj6y540000gn/T/AppTranslocation/21EA514F-C8DC-42CE-BDD6-13020AAD2427
+text from NEW_BRANCH
